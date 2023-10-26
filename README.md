@@ -1,4 +1,5 @@
-# 💫 About Me:
+<h1 align="center">Hi 👋, I'm Earl-Felix Teye</h1>
+<h3 align="center">A budding Software Engineer passionate about DevOps</h3>
 🌱 I’m currently learning Django, ALX Software Engineering<br><br>💬 Ask me about AWS and Python<br><br>📫 How to reach me 1kwameearl@gmail.com<br><br>⚡ Fun fact I am super curious and a bookworm
 
 
