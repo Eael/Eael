@@ -1,6 +1,6 @@
-# [![TypingSVG](https://readme-typing-svg.demolab.com?lines=Hey!+You+Are+Welcome+To+My+Profile;I+Am+Passionate+About+Coding+And+Books;I+Learn+By+Doing)](https://git.io/typing-svg)
+# [![TypingSVG](https://readme-typing-svg.demolab.com?lines=Hey!+You+Are+Welcome+To+My+Profile;I+Am+Passionate+About+Coding;I+Love+Books;I+Learn+By+Doing)](https://git.io/typing-svg)
 <h1 align="left">Hi 👋, I'm Earl-Felix Teye</h1>
-<h3 align="center">A budding Software Engineer passionate about DevOps</h3>
+<h3 align="left">A budding Software Engineer passionate about DevOps</h3>
 🌱 I’m currently learning Django, ALX Software Engineering<br><br>💬 Ask me about AWS and Python<br><br>📫 How to reach me 1kwameearl@gmail.com<br><br>⚡ Fun fact I am super curious and a bookworm
 
 
